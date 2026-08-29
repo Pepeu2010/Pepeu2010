@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Pepeu 👋
+# Hey, I'm Pedro 👋
 
 ### I build useful products with clean interfaces, solid engineering and practical AI.
 
