@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hey, I'm Pedro 👋
+# Olá, eu sou o Pedro 👋
 
-### I build useful products with clean interfaces, solid engineering and practical AI.
+### Eu crio produtos úteis com interfaces bem cuidadas, engenharia sólida e IA aplicada de forma prática.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Pepeu2010-181717?style=for-the-badge&logo=github)](https://github.com/Pepeu2010)
 
@@ -10,14 +10,14 @@
 
 ---
 
-## About me
+## Sobre mim
 
-- 💻 Building modern web applications from product idea to production.
-- 🧠 Interested in **AI, computer vision, automation and developer tooling**.
-- ✨ I care about **UI/UX, performance, accessibility and security** — not just making things work.
-- 🚀 Current focus: shipping polished products with **Next.js, React and TypeScript**.
+- 💻 Desenvolvo aplicações web modernas, da ideia do produto até a produção.
+- 🧠 Tenho interesse em **IA, visão computacional, automação e ferramentas para desenvolvedores**.
+- ✨ Valorizo **UI/UX, performance, acessibilidade e segurança** — não apenas fazer as coisas funcionarem.
+- 🚀 Foco atual: entregar produtos bem refinados com **Next.js, React e TypeScript**.
 
-## Tech stack
+## Stack de tecnologias
 
 <div align="center">
 
@@ -33,38 +33,38 @@
 
 </div>
 
-## Featured project
+## Projeto em destaque
 
 ### 📝 [ProvaScan](https://github.com/Pepeu2010/provascan)
 
-A modern platform designed to make **exam creation, answer-sheet processing and grading workflows** faster and more reliable.
+Uma plataforma moderna criada para tornar os fluxos de **criação de provas, processamento de cartões-resposta e correção** mais rápidos e confiáveis.
 
-**Highlights**
+**Destaques**
 
-- Modern dashboard and responsive interface
-- OCR / image-processing workflows
-- Authentication and authorization flows
-- Collaborative features
-- Security hardening and automated verification
-- Motion and polished UI interactions
+- Dashboard moderno e interface responsiva
+- Fluxos de OCR e processamento de imagens
+- Fluxos de autenticação e autorização
+- Recursos colaborativos
+- Reforço de segurança e verificações automatizadas
+- Animações e interações de UI refinadas
 
 `Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `Supabase` · `Redis` · `Playwright` · `GSAP` · `Motion`
 
-## What I like building
+## O que eu gosto de construir
 
-| Area | Focus |
+| Área | Foco |
 | --- | --- |
-| 🌐 **Web Apps** | Full-stack products, dashboards and SaaS-style interfaces |
-| 🤖 **AI & Automation** | Practical AI workflows, OCR, computer vision and automation |
-| 🎨 **Product & UI** | Interfaces with strong hierarchy, motion and attention to detail |
-| 🔐 **Engineering** | Performance, testing, authorization and security hardening |
+| 🌐 **Aplicações Web** | Produtos full-stack, dashboards e interfaces no estilo SaaS |
+| 🤖 **IA e Automação** | Fluxos práticos com IA, OCR, visão computacional e automação |
+| 🎨 **Produto e UI** | Interfaces com boa hierarquia visual, movimento e atenção aos detalhes |
+| 🔐 **Engenharia** | Performance, testes, autorização e reforço de segurança |
 
 ---
 
 <div align="center">
 
-### Build. Test. Refine. Ship.
+### Construa. Teste. Refine. Entregue.
 
-<sub>More projects coming soon.</sub>
+<sub>Mais projetos em breve.</sub>
 
 </div>
