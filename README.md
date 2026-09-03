@@ -1,8 +1,12 @@
 <div align="center">
 
-# Olá, eu sou o Pedro 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:1F6FEB,100:58A6FF&text=Pedro%20Miguel&fontColor=FFFFFF&fontSize=52&fontAlignY=38&animation=fadeIn&desc=Desenvolvimento%20%E2%80%A2%20IA%20%E2%80%A2%20UI%2FUX&descAlignY=58&descSize=18" alt="Pedro Miguel" />
 
-### Eu crio produtos úteis com interfaces bem cuidadas, engenharia sólida e IA aplicada de forma prática.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Ol%C3%A1%2C+eu+sou+o+Pedro+%F0%9F%91%8B;Transformo+ideias+em+produtos+digitais.;Interfaces+bonitas.+Engenharia+s%C3%B3lida.+IA+pr%C3%A1tica.;Sempre+construindo%2C+testando+e+melhorando." alt="Texto animado de apresentação" />
+</a>
+
+<br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Pepeu2010-181717?style=for-the-badge&logo=github)](https://github.com/Pepeu2010)
 
@@ -10,14 +14,18 @@
 
 ---
 
-## Sobre mim
+## 👨‍💻 Sobre mim
 
-- 💻 Desenvolvo aplicações web modernas, da ideia do produto até a produção.
+> Gosto de transformar problemas reais em produtos simples, rápidos e bem construídos.
+
+- 💻 Desenvolvo **aplicações web modernas**, da ideia do produto até a produção.
 - 🧠 Tenho interesse em **IA, visão computacional, automação e ferramentas para desenvolvedores**.
 - ✨ Valorizo **UI/UX, performance, acessibilidade e segurança** — não apenas fazer as coisas funcionarem.
-- 🚀 Foco atual: entregar produtos bem refinados com **Next.js, React e TypeScript**.
+- 🚀 Foco atual: entregar produtos refinados com **Next.js, React e TypeScript**.
 
-## Stack de tecnologias
+<br/>
+
+## ⚡ Stack de tecnologias
 
 <div align="center">
 
@@ -33,38 +41,58 @@
 
 </div>
 
-## Projeto em destaque
+<br/>
+
+## 🚀 Projeto em destaque
+
+<div align="center">
 
 ### 📝 [ProvaScan](https://github.com/Pepeu2010/provascan)
 
+**Correção de provas mais rápida, confiável e inteligente.**
+
+</div>
+
 Uma plataforma moderna criada para tornar os fluxos de **criação de provas, processamento de cartões-resposta e correção** mais rápidos e confiáveis.
 
-**Destaques**
+### ✨ Destaques
 
-- Dashboard moderno e interface responsiva
-- Fluxos de OCR e processamento de imagens
-- Fluxos de autenticação e autorização
-- Recursos colaborativos
-- Reforço de segurança e verificações automatizadas
-- Animações e interações de UI refinadas
+- 📱 Dashboard moderno e interface responsiva
+- 👁️ OCR e processamento de imagens
+- 🔐 Autenticação e autorização
+- 🤝 Recursos colaborativos
+- 🛡️ Reforço de segurança e verificações automatizadas
+- 🎬 Animações e interações de UI refinadas
+
+<div align="center">
 
 `Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `Supabase` · `Redis` · `Playwright` · `GSAP` · `Motion`
 
-## O que eu gosto de construir
+</div>
+
+<br/>
+
+## 🧩 O que eu gosto de construir
 
 | Área | Foco |
 | --- | --- |
 | 🌐 **Aplicações Web** | Produtos full-stack, dashboards e interfaces no estilo SaaS |
-| 🤖 **IA e Automação** | Fluxos práticos com IA, OCR, visão computacional e automação |
-| 🎨 **Produto e UI** | Interfaces com boa hierarquia visual, movimento e atenção aos detalhes |
+| 🤖 **IA e Automação** | IA aplicada, OCR, visão computacional e automação |
+| 🎨 **Produto e UI** | Interfaces com hierarquia visual, movimento e atenção aos detalhes |
 | 🔐 **Engenharia** | Performance, testes, autorização e reforço de segurança |
+
+<br/>
 
 ---
 
 <div align="center">
 
-### Construa. Teste. Refine. Entregue.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=700&color=58A6FF&center=true&vCenter=true&width=700&lines=Construa.+%E2%86%92+Teste.+%E2%86%92+Refine.+%E2%86%92+Entregue.;O+pr%C3%B3ximo+projeto+come%C3%A7a+com+uma+ideia.+%E2%9C%A8" alt="Mensagem animada" />
+</a>
 
 <sub>Mais projetos em breve.</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D1117,50:1F6FEB,100:58A6FF&section=footer" alt="Rodapé decorativo" />
 
 </div>
