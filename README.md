@@ -3,7 +3,7 @@
 <img width="100%" src="https://raw.githubusercontent.com/Pepeu2010/Pepeu2010/main/assets/profile-banner.svg" alt="Banner Pedro Miguel" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Ol%C3%A1%2C+eu+sou+o+Pedro+%F0%9F%91%8B;Transformo+ideias+em+produtos+digitais.;Interfaces+bonitas.+Engenharia+s%C3%B3lida.+IA+pr%C3%A1tica.;Sempre+construindo%2C+testando+e+melhorando." alt="Texto animado de apresentação" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Ol%C3%A1%2C+eu+sou+o+Pedro+%F0%9F%91%8B;Construo+backends+e+sistemas+%C3%BAteis.;APIs+robustas.+Engenharia+s%C3%B3lida.+IA+pr%C3%A1tica.;Sempre+construindo%2C+testando+e+melhorando." alt="Texto animado de apresentação" />
 </a>
 
 <br/>
@@ -16,12 +16,12 @@
 
 ## 👨‍💻 Sobre mim
 
-> Gosto de transformar problemas reais em produtos simples, rápidos e bem construídos.
+> Gosto de transformar problemas reais em sistemas simples, rápidos e bem construídos.
 
-- 💻 Desenvolvo **aplicações web modernas**, da ideia do produto até a produção.
+- 💻 Desenvolvo **backends e aplicações web modernas**, da arquitetura até a produção.
 - 🧠 Tenho interesse em **IA, visão computacional, automação e ferramentas para desenvolvedores**.
-- ✨ Valorizo **UI/UX, performance, acessibilidade e segurança** — não apenas fazer as coisas funcionarem.
-- 🚀 Foco atual: entregar produtos refinados com **Next.js, React e TypeScript**.
+- ✨ Valorizo **arquitetura, performance, segurança, testes e qualidade de código** — não apenas fazer as coisas funcionarem.
+- 🚀 Foco atual: construir soluções robustas com **TypeScript, APIs, bancos de dados e automação**.
 
 <br/>
 
@@ -76,10 +76,10 @@ Uma plataforma moderna criada para tornar os fluxos de **criação de provas, pr
 
 | Área | Foco |
 | --- | --- |
-| 🌐 **Aplicações Web** | Produtos full-stack, dashboards e interfaces no estilo SaaS |
+| ⚙️ **Backend & APIs** | Serviços, integrações, autenticação, regras de negócio e APIs |
 | 🤖 **IA e Automação** | IA aplicada, OCR, visão computacional e automação |
-| 🎨 **Produto e UI** | Interfaces com hierarquia visual, movimento e atenção aos detalhes |
-| 🔐 **Engenharia** | Performance, testes, autorização e reforço de segurança |
+| 🗄️ **Dados & Sistemas** | Bancos de dados, fluxos de dados, performance e confiabilidade |
+| 🔐 **Engenharia** | Testes, autorização, segurança e qualidade de código |
 
 <br/>
 
