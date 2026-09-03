@@ -81,8 +81,8 @@
   <text x="54" y="132" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="62" font-weight="800" letter-spacing="2">PEDRO MIGUEL</text>
   <rect x="55" y="146" width="392" height="5" rx="2.5" fill="url(#accent)"/>
 
-  <text x="56" y="188" fill="#C7D8F7" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600">Frontend • IA • UI/UX • Full-Stack</text>
-  <text x="56" y="224" fill="#8FA4C6" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="500">Construindo produtos úteis com visual forte, código limpo e foco em performance.</text>
+  <text x="56" y="188" fill="#C7D8F7" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600">Backend • IA • Automação • Full-Stack</text>
+  <text x="56" y="224" fill="#8FA4C6" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="500">Construindo sistemas úteis com arquitetura sólida, código limpo e foco em performance.</text>
 
   <g>
     <rect x="56" y="248" width="98" height="34" rx="17" fill="#0A1220" stroke="#1D4ED8"/>
@@ -104,7 +104,7 @@
     <circle cx="838" cy="69" r="5" fill="#FB7185"/>
     <circle cx="856" cy="69" r="5" fill="#FBBF24"/>
     <circle cx="874" cy="69" r="5" fill="#34D399"/>
-    <text x="907" y="74" fill="#9BC0F7" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="700">portfolio.tsx</text>
+    <text x="907" y="74" fill="#9BC0F7" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="700">backend.ts</text>
 
     <text x="838" y="120" fill="#38BDF8" font-family="JetBrains Mono, Consolas, monospace" font-size="16">const</text>
     <text x="888" y="120" fill="#E5EDF9" font-family="JetBrains Mono, Consolas, monospace" font-size="16">developer</text>
@@ -115,7 +115,7 @@
     <text x="890" y="148" fill="#E5EDF9" font-family="JetBrains Mono, Consolas, monospace" font-size="14">'Pedro Miguel',</text>
 
     <text x="838" y="176" fill="#A78BFA" font-family="JetBrains Mono, Consolas, monospace" font-size="14">focus:</text>
-    <text x="896" y="176" fill="#E5EDF9" font-family="JetBrains Mono, Consolas, monospace" font-size="14">'Web, IA, UI/UX',</text>
+    <text x="896" y="176" fill="#E5EDF9" font-family="JetBrains Mono, Consolas, monospace" font-size="14">'Backend, IA, Automação',</text>
 
     <text x="838" y="204" fill="#A78BFA" font-family="JetBrains Mono, Consolas, monospace" font-size="14">status:</text>
     <text x="900" y="204" fill="#E5EDF9" font-family="JetBrains Mono, Consolas, monospace" font-size="14">'building useful things'</text>
