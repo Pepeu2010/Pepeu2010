@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:1F6FEB,100:58A6FF&text=Pedro%20Miguel&fontColor=FFFFFF&fontSize=52&fontAlignY=38&animation=fadeIn&desc=Desenvolvimento%20%E2%80%A2%20IA%20%E2%80%A2%20UI%2FUX&descAlignY=58&descSize=18" alt="Pedro Miguel" />
+<img width="100%" src="https://raw.githubusercontent.com/Pepeu2010/Pepeu2010/main/assets/profile-banner.svg" alt="Banner Pedro Miguel" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Ol%C3%A1%2C+eu+sou+o+Pedro+%F0%9F%91%8B;Transformo+ideias+em+produtos+digitais.;Interfaces+bonitas.+Engenharia+s%C3%B3lida.+IA+pr%C3%A1tica.;Sempre+construindo%2C+testando+e+melhorando." alt="Texto animado de apresentação" />
