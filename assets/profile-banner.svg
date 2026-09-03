@@ -1,0 +1,129 @@
+<svg width="1280" height="320" viewBox="0 0 1280 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgMain" x1="0" y1="0" x2="1280" y2="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#05070B"/>
+      <stop offset="0.38" stop-color="#0A0F19"/>
+      <stop offset="0.72" stop-color="#09111D"/>
+      <stop offset="1" stop-color="#05070B"/>
+    </linearGradient>
+    <radialGradient id="glowBlue" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(292 92) rotate(27.24) scale(340 190)">
+      <stop stop-color="#2563EB" stop-opacity="0.42"/>
+      <stop offset="0.55" stop-color="#1D4ED8" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#1D4ED8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowCyan" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1030 122) rotate(145) scale(280 180)">
+      <stop stop-color="#06B6D4" stop-opacity="0.35"/>
+      <stop offset="0.58" stop-color="#0891B2" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#0891B2" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="55" y1="0" x2="450" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#60A5FA"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <linearGradient id="lineGlow" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#0EA5E9" stop-opacity="0"/>
+      <stop offset="0.45" stop-color="#60A5FA" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="cardBorder" x1="810" y1="48" x2="1218" y2="272" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1E3A8A"/>
+      <stop offset="0.55" stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#155E75"/>
+    </linearGradient>
+    <filter id="blur" x="-120" y="-120" width="1520" height="560" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="42"/>
+    </filter>
+    <filter id="shadow" x="0" y="0" width="1280" height="320" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="16" stdDeviation="22" flood-color="#000000" flood-opacity="0.32"/>
+    </filter>
+  </defs>
+
+  <g filter="url(#shadow)">
+    <rect width="1280" height="320" rx="30" fill="url(#bgMain)"/>
+  </g>
+
+  <g filter="url(#blur)">
+    <ellipse cx="292" cy="92" rx="230" ry="120" fill="url(#glowBlue)"/>
+    <ellipse cx="1034" cy="122" rx="210" ry="110" fill="url(#glowCyan)"/>
+  </g>
+
+  <rect x="1" y="1" width="1278" height="318" rx="29" stroke="#111827" stroke-opacity="0.95"/>
+
+  <g opacity="0.18">
+    <path d="M0 54.5H1280" stroke="url(#lineGlow)"/>
+    <path d="M0 108.5H1280" stroke="url(#lineGlow)"/>
+    <path d="M0 162.5H1280" stroke="url(#lineGlow)"/>
+    <path d="M0 216.5H1280" stroke="url(#lineGlow)"/>
+    <path d="M0 270.5H1280" stroke="url(#lineGlow)"/>
+    <path d="M72.5 0V320" stroke="url(#lineGlow)"/>
+    <path d="M144.5 0V320" stroke="url(#lineGlow)"/>
+    <path d="M216.5 0V320" stroke="url(#lineGlow)"/>
+    <path d="M288.5 0V320" stroke="url(#lineGlow)"/>
+    <path d="M360.5 0V320" stroke="url(#lineGlow)"/>
+    <path d="M432.5 0V320" stroke="url(#lineGlow)"/>
+    <path d="M504.5 0V320" stroke="url(#lineGlow)"/>
+    <path d="M576.5 0V320" stroke="url(#lineGlow)"/>
+    <path d="M648.5 0V320" stroke="url(#lineGlow)"/>
+    <path d="M720.5 0V320" stroke="url(#lineGlow)"/>
+    <path d="M792.5 0V320" stroke="url(#lineGlow)"/>
+    <path d="M864.5 0V320" stroke="url(#lineGlow)"/>
+    <path d="M936.5 0V320" stroke="url(#lineGlow)"/>
+    <path d="M1008.5 0V320" stroke="url(#lineGlow)"/>
+    <path d="M1080.5 0V320" stroke="url(#lineGlow)"/>
+    <path d="M1152.5 0V320" stroke="url(#lineGlow)"/>
+    <path d="M1224.5 0V320" stroke="url(#lineGlow)"/>
+  </g>
+
+  <rect x="54" y="42" width="136" height="32" rx="16" fill="#07101C" stroke="#18314F"/>
+  <circle cx="74" cy="58" r="4.5" fill="#22C55E"/>
+  <text x="88" y="63" fill="#B6CCF6" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">README / PROFILE</text>
+
+  <text x="54" y="132" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="62" font-weight="800" letter-spacing="2">PEDRO MIGUEL</text>
+  <rect x="55" y="146" width="392" height="5" rx="2.5" fill="url(#accent)"/>
+
+  <text x="56" y="188" fill="#C7D8F7" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600">Frontend • IA • UI/UX • Full-Stack</text>
+  <text x="56" y="224" fill="#8FA4C6" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="500">Construindo produtos úteis com visual forte, código limpo e foco em performance.</text>
+
+  <g>
+    <rect x="56" y="248" width="98" height="34" rx="17" fill="#0A1220" stroke="#1D4ED8"/>
+    <text x="84" y="270" fill="#E5F0FF" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">Next.js</text>
+
+    <rect x="164" y="248" width="86" height="34" rx="17" fill="#0A1220" stroke="#0EA5E9"/>
+    <text x="192" y="270" fill="#E0F7FF" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">React</text>
+
+    <rect x="260" y="248" width="118" height="34" rx="17" fill="#0A1220" stroke="#2563EB"/>
+    <text x="287" y="270" fill="#DBEBFF" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">TypeScript</text>
+
+    <rect x="388" y="248" width="70" height="34" rx="17" fill="#0A1220" stroke="#06B6D4"/>
+    <text x="413" y="270" fill="#D8FBFF" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">IA</text>
+  </g>
+
+  <g>
+    <rect x="810" y="48" width="408" height="224" rx="24" fill="#050B14" stroke="url(#cardBorder)"/>
+    <rect x="810" y="48" width="408" height="42" rx="24" fill="#08111D"/>
+    <circle cx="838" cy="69" r="5" fill="#FB7185"/>
+    <circle cx="856" cy="69" r="5" fill="#FBBF24"/>
+    <circle cx="874" cy="69" r="5" fill="#34D399"/>
+    <text x="907" y="74" fill="#9BC0F7" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="700">portfolio.tsx</text>
+
+    <text x="838" y="120" fill="#38BDF8" font-family="JetBrains Mono, Consolas, monospace" font-size="16">const</text>
+    <text x="888" y="120" fill="#E5EDF9" font-family="JetBrains Mono, Consolas, monospace" font-size="16">developer</text>
+    <text x="976" y="120" fill="#94A3B8" font-family="JetBrains Mono, Consolas, monospace" font-size="16">=</text>
+    <text x="994" y="120" fill="#22D3EE" font-family="JetBrains Mono, Consolas, monospace" font-size="16">{</text>
+
+    <text x="838" y="148" fill="#A78BFA" font-family="JetBrains Mono, Consolas, monospace" font-size="14">name:</text>
+    <text x="890" y="148" fill="#E5EDF9" font-family="JetBrains Mono, Consolas, monospace" font-size="14">'Pedro Miguel',</text>
+
+    <text x="838" y="176" fill="#A78BFA" font-family="JetBrains Mono, Consolas, monospace" font-size="14">focus:</text>
+    <text x="896" y="176" fill="#E5EDF9" font-family="JetBrains Mono, Consolas, monospace" font-size="14">'Web, IA, UI/UX',</text>
+
+    <text x="838" y="204" fill="#A78BFA" font-family="JetBrains Mono, Consolas, monospace" font-size="14">status:</text>
+    <text x="900" y="204" fill="#E5EDF9" font-family="JetBrains Mono, Consolas, monospace" font-size="14">'building useful things'</text>
+
+    <text x="838" y="232" fill="#22D3EE" font-family="JetBrains Mono, Consolas, monospace" font-size="16">}</text>
+
+    <rect x="838" y="246" width="168" height="14" rx="7" fill="#0F172A"/>
+    <rect x="838" y="246" width="132" height="14" rx="7" fill="url(#accent)" opacity="0.98"/>
+    <text x="1020" y="257" fill="#6F89AC" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="700">BUILD LEVEL</text>
+  </g>
+</svg>
